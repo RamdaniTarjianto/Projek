@@ -1,15 +1,15 @@
 <?php
 //local
-$host="localhost";
+/*$host="localhost";
 $user="root";
 $password="";
-$db="projek";
+$db="projek";*/
 
 //server
-/* $host = "remotemysql.com";
+$host = "remotemysql.com";
 $user = "7lepf28yK9";
 $password = "ax6nNbkQXg";
-$db = "7lepf28yK9"; */
+$db = "7lepf28yK9"; 
 
 $kon = mysqli_connect($host,$user,$password);
 if ($kon){
