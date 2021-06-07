@@ -1,0 +1,16 @@
+/* body */
+body {
+    background-color: #e9ecef;
+    height: 100%;
+}
+
+/* footer */
+.footer-Beranda {
+    position: absolute;
+    bottom: 0px;
+}
+
+.jumbotron {
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
